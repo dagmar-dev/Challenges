@@ -9,5 +9,4 @@ function sum (numbers) {
     });
     return result
 };
-
-sum([1,2,5,9]) 
+sum([1,2,5,9,9]) 
